@@ -1,42 +1,40 @@
-\# M6 – Final Presentation
+# M6 – Final Presentation
 
 
 
-\### Objective
+### Objective
 
 Summarize the full project for final evaluation.  
 
-This is the visual and verbal complement to the M6 final report.
+This is the visual complement to the M6 final report.
 
 
 
-\### Deliverables
+### Deliverables
 
-\- \*\*Slides (PDF if available)\*\*  
-
-\- \*\*Video (Zoom/YouTube link)\*\* – Team presentation recording.
+- **Slides (PDF if available)**  
 
 
 
-\### Required Format
+### Required Format
 
-\- Project Overview – 1–2 slides  
+- Project Overview – 1–2 slides  
 
-\- Personas \& Business Rules – 1–2 slides  
+- Personas & Business Rules – 1–2 slides  
 
-\- ERD Diagram – 1 slide  
+- ERD Diagram – 1 slide  
 
-\- SQL Examples – 2–4 slides  
+- SQL Examples – 2–4 slides  
 
 
 
-\### Key Highlights
+### Key Highlights
 
-\- Succinct storytelling: project journey from problem to solution.  
+- Succinct storytelling: project journey from problem to solution.  
 
-\- ERD + SQL examples to demonstrate technical competency.  
+- ERD + SQL examples to demonstrate technical competency.  
 
-\- Collaborative final presentation by all team members.
+- Collaborative final presentation by all team members.
 
 
 
