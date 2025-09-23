@@ -1,14 +1,14 @@
-\# ITC6000 – Database Management (Fall 2024)
+# ITC6000 – Database Management (Fall 2024)
 
 
 
-\*\*Team Project: Community Service \& Emergency Response App\*\*
+**Team Project: Community Service & Emergency Response App**
 
 
 
 This repository documents the full progression of the ITC6000 final project.  
 
-It follows the course modules step-by-step: from business analysis \& ERD design, to data import, SQL implementation, final reporting, and presentation.  
+It follows the course modules step-by-step: from business analysis & ERD design, to data import, SQL implementation, final reporting, and presentation.  
 
 
 
@@ -20,53 +20,37 @@ Each module folder contains its own README for details, deliverables, and contex
 
 
 
-\## Modules
+## Modules
 
 
 
-\- \*\*M2\_Business\_Analysis\_ERD\*\*  
+- **M2_Business_Analysis_ERD**  
 
 &nbsp; Business case analysis, user personas, business rules, and Entity-Relationship Diagram (ERD).
 
 
 
-\- \*\*M4\_Team\_Presentation\*\*  
+- **M4_Team_Presentation**  
 
-&nbsp; Team digital presentation slides (PDF) and recorded video (Zoom).
+&nbsp; Team digital presentation slides (PDF).
 
 
 
-\- \*\*M5\_Data\_Import\*\*  
+- **M5_Data_Import**  
 
 &nbsp; SQLite database implementation, 20+ SQL queries, and a short database architecture report.
 
 
 
-\- \*\*M6\_Final\_Report\*\*  
+- **M6_Final_Report**  
 
 &nbsp; Comprehensive final project report, combining analysis, ERD, SQL examples, analytics, and architecture.
 
 
 
-\- \*\*M6\_Presentation\*\*  
+- **M6_Presentation**  
 
-&nbsp; Final project presentation (slides + video link).
-
-
-
----
-
-
-
-\### Repository Conventions
-
-\- All reports are stored in \*\*/docs\*\* folders.  
-
-\- SQL databases and project files are stored in \*\*/db\*\* folders.  
-
-\- Each module has its own `README.md` with a clear description of objectives and deliverables.  
-
-\- Large video files are excluded from the repo (`.mp4` ignored). Links are referenced in README instead.  
+&nbsp; Final project presentation (slides).
 
 
 
@@ -74,11 +58,25 @@ Each module folder contains its own README for details, deliverables, and contex
 
 
 
-\### Folder structure
+### Repository Conventions
+
+- All reports are stored in **/docs** folders.  
+
+- SQL databases and project files are stored in **/db** folders.  
+
+- Each module has its own `README.md` with a clear description of objectives and deliverables.  
+
+
+
+---
+
+
+
+### Folder structure
 
 ITC6000 – Database Mgmt/
 
-├─ M2\_Business\_Analysis\_ERD/
+├─ M2_Business_Analysis_ERD/
 
 │  ├─ docs/
 
@@ -86,33 +84,33 @@ ITC6000 – Database Mgmt/
 
 │  └─ README.md
 
-├─ M4\_Team\_Presentation/
+├─ M4_Team_Presentation/
 
 │  ├─ docs/
 
-│  │  └─ Week4\_Presentation.pdf
+│  │  └─ Week4_Presentation.pdf
 
 │  └─ README.md
 
-├─ M5\_Data\_Import/
+├─ M5_Data_Import/
 
 │  ├─ db/
 
-│  │  ├─ week\_5project.db
+│  │  ├─ week_5project.db
 
-│  │  └─ week\_5project.sqbpro
+│  │  └─ week_5project.sqbpro
 
 │  ├─ docs/
 
-│  │  ├─ Module\_5\_Report.pdf
+│  │  ├─ Module_5_Report.pdf
 
-│  │  ├─ Week5\_Sql\_Select\_Statements.pdf
+│  │  ├─ Week5_Sql_Select_Statements.pdf
 
-│  │  └─ (Week5\_Sql\_Select\_Statements-1.pdf 
+│  │  └─ Week5_Sql_Select_Statements-1.pdf 
 
 │  └─ README.md
 
-├─ M6\_Final\_Report/
+├─ M6_Final_Report/
 
 │  ├─ docs/
 
@@ -120,11 +118,11 @@ ITC6000 – Database Mgmt/
 
 │  └─ README.md
 
-├─ M6\_Presentation/
+├─ M6_Presentation/
 
 │  ├─ docs/
 
-│  │  └─ (slides .pdf if you have them; link to video)
+│  │  └─ slides .pdf
 
 │  └─ README.md
 
