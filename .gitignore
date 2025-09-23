@@ -1,0 +1,29 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python/Jupyter (if any later)
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# BI and heavy artifacts (commit only when intentional)
+*.pbix
+*.pbit
+
+# Databases / caches
+*.db
+*.sqlite
+*.sqbpro
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Logs
+*.log
