@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 Analyze Goodreads (Kaggle) dataset of ~52,000 books (1990–2020) to explore:
 - Statistical properties: mean, variance, std deviation of ratings.
 - Visual patterns of ratings, page counts, and publisher dominance.
@@ -15,14 +15,14 @@ Analyze Goodreads (Kaggle) dataset of ~52,000 books (1990–2020) to explore:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `src/` – R script (`Project3_Script.R`)
 - `data/` – Dataset (`books.csv`)
 - `docs/` – Report PDF + assignment instructions
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 - Histogram of book ratings (binwidth 0.25, red).
 - Box plot of page counts (magenta, horizontal).
 - Pareto chart of publisher dominance.
@@ -32,7 +32,7 @@ Analyze Goodreads (Kaggle) dataset of ~52,000 books (1990–2020) to explore:
 
 ---
 
-## ✅ Insights
+## Insights
 - Ratings skew positive (~4.0 avg).
 - Most books under 500 pages; few outliers near 1200.
 - Random House & Harper Collins dominate ~70% of books.
@@ -41,13 +41,13 @@ Analyze Goodreads (Kaggle) dataset of ~52,000 books (1990–2020) to explore:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Open `src/Project3_Script.R` in RStudio.  
 2. Ensure required packages: `tidyverse, janitor, lubridate, ggthemes, ggeasy, tibble`.  
 3. Run the script. It generates all visualizations used in the report.
 
 ---
 
-## 📄 References
+## References
 - Dataset: Goodreads via Kaggle  
 - Course material (ALY6000 – Northeastern University)  
