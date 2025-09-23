@@ -66,17 +66,16 @@ Project 2 – EDA Two Datasets/
 
 3\. Install required packages if missing:
 
-&nbsp;  ```r
-
-&nbsp;  install.packages(c("tidyverse","janitor","ggplot2"))
+install.packages(c("tidyverse","janitor","ggplot2"))
 
 4\. Source the script; outputs are printed/visualized inline.
 
 Notes
+-Course instruction PDFs/tests are not included to keep the repo focused on my deliverables.
 
+-Datasets are small and included for reproducibility; if you prefer, swap with your own copies and keep the file names.
 
 
 Author
-
 Yash Amit Singh
 
