@@ -1,8 +1,8 @@
-\# M2 – Business Analysis \& ERD
+# M2 – Business Analysis & ERD
 
 
 
-\### Objective
+### Objective
 
 Define the problem space and translate it into database-ready logic.
 
@@ -10,9 +10,9 @@ This module establishes the foundation of the project by analyzing the business 
 
 
 
-\### Deliverables
+### Deliverables
 
-\- \*\*Community service and Emergency Response App.pdf\*\*
+- **Community service and Emergency Response App.pdf**
 
   - Introduction: project overview, motivation, and personal connection.
 
@@ -24,11 +24,11 @@ This module establishes the foundation of the project by analyzing the business 
 
 
 
-\### Key Highlights
+### Key Highlights
 
-\- 2–3 detailed user personas describing \*who\* uses the system and \*how\*.
+- 2–3 detailed user personas describing *who* uses the system and *how*.
 
-\- At least 5 business rules documented in clear bullet points.
+- At least 5 business rules documented in clear bullet points.
 
-\- ERD diagram with at least 4 related tables (PKs \& FKs defined).
+- ERD diagram with at least 4 related tables (PKs & FKs defined).
 
