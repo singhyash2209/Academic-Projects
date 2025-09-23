@@ -1,26 +1,26 @@
-\# Project 4 — Independent Data Analysis (ALY6000)
+# Project 4 — Independent Data Analysis (ALY6000)
 
 
 
-\*\*Topic:\*\* Leafly Cannabis Strain Analysis  
+**Topic:** Leafly Cannabis Strain Analysis  
 
-\*\*Course:\*\* ALY6000 — Intro to Analytics (Fall 2024)  
+**Course:** ALY6000 — Intro to Analytics (Fall 2024)  
 
-\*\*Deliverables:\*\* R script (`src/Singh\_Project4.R`), slide deck (`docs/Singh\_Project4.pptx`).
-
-
-
-\## What I did
-
-\- Cleaned raw strain records (types, THC %, terpene names), handled NAs, normalized datatypes.
-
-\- Summarized THC distribution, strain-type mix, and terpene prevalence.
-
-\- Built bar charts/box plots for type distribution and THC by type; compared top terpenes.
+**Deliverables:** R script (`src/Singh_Project4.R`), slide deck (`docs/Singh_Project4.pptx`).
 
 
 
-\## Repo structure
+## What I did
+
+- Cleaned raw strain records (types, THC %, terpene names), handled NAs, normalized datatypes.
+
+- Summarized THC distribution, strain-type mix, and terpene prevalence.
+
+- Built bar charts/box plots for type distribution and THC by type; compared top terpenes.
+
+
+
+## Repo structure
 Project 4 – Independent Data Analysis/
 │ README.md
 ├─ src/ # R script(s)
@@ -31,6 +31,7 @@ Project 4 – Independent Data Analysis/
 ## Data
 - *Leafly Cannabis Strain Data* (Kaggle). If large, download from Kaggle and place locally under `data/`.
   - Kaggle: gthrosa/leafly-cannabis-strains-metadata
+  - https://www.kaggle.com/datasets/gthrosa/leafly-cannabis-strains-metadata?resource=download
 
 ## How to run
 1. Open `src/Singh_Project4.R` in RStudio.
