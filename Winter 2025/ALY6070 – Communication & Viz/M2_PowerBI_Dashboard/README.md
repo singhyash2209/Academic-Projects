@@ -1,28 +1,28 @@
-\# Assignment 2 – Power BI Dashboard
+# Assignment 2 – Power BI Dashboard
 
 
 
-\## 📌 Objective
+## 📌 Objective
 
-Develop an interactive \*\*Power BI dashboard\*\* to explore a dataset and communicate insights effectively.
-
-
-
-\## 📂 Contents
-
-\- `dashboard/`: Power BI file (.pbix / .pbit).
-
-\- `docs/Report\_depression.pdf`: Written report describing dashboard design choices.
+Develop an interactive **Power BI dashboard** to explore a dataset and communicate insights effectively.
 
 
 
-\## 🛠️ Skills Practiced
+## 📂 Contents
 
-\- Importing and cleaning data in Power BI.
+- `dashboard/`: Power BI file (.pbix / .pbit).
 
-\- Building KPIs and slicers.
+- `docs/Report_depression.pdf`: Written report describing dashboard design choices.
 
-\- Effective storytelling through visual design.
+
+
+## 🛠️ Skills Practiced
+
+- Importing and cleaning data in Power BI.
+
+- Building KPIs and slicers.
+
+- Effective storytelling through visual design.
 
 
 
