@@ -1,24 +1,24 @@
-\# Final Project – Integrated Modeling
+# Final Project – Integrated Modeling
 
 
 
-\*\*Dataset:\*\* `drugs\_side\_effects\_drugs\_com.xlsx`
+**Dataset:** `drugs_side_effects_drugs_com.xlsx`
 
 
 
-\## Contents
+## Contents
 
-\- `data/drugs\_side\_effects\_drugs\_com.xlsx`
+- `data/drugs_side_effects_drugs_com.xlsx`
 
-\- `docs/Final\_Project\_Report.html`
+- `docs/Final_Project_Report.html`
 
-\- `src/` (if present)
+- `src/` (if present)
 
-\- `visuals/` figures
+- `visuals/` figures
 
 
 
-\## Outline
+## Outline
 
 EDA → feature engineering → selected GLM/logistic models → diagnostics → interpretation and recommendations.
 
