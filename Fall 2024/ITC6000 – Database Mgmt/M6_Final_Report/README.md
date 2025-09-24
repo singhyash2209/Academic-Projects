@@ -1,14 +1,14 @@
-\# ITC6000 — M6: Final Report
+# ITC6000 — M6: Final Report
 
-\*\*Term:\*\* Fall 2024  
+**Term:** Fall 2024  
 
-\*\*Tech:\*\* SQL (20+ SELECTs), schema/ERD
+**Tech:** SQL (20+ SELECTs), schema/ERD
 
 
 
-\## Contents
+## Contents
 
-Complete documentation: ERD, DDL, sample data strategy, 20+ analytics queries, security \& architecture notes.
+Complete documentation: ERD, DDL, sample data strategy, 20+ analytics queries, security & architecture notes.
 
 
 
