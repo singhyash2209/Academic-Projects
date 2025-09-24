@@ -1,14 +1,14 @@
-\# ALY6040 — Module 4: SVM Classifier
+# ALY6040 — Module 4: SVM Classifier
 
-\*\*Term:\*\* Spring 2025  
+**Term:** Spring 2025  
 
-\*\*Tech:\*\* R (e1071, caret, pROC)
+**Tech:** R (e1071, caret, pROC)
 
 
 
-\*\*Objective:\*\* Train SVM on a chosen dataset; compare kernels and tune C/γ.  
+**Objective:** Train SVM on a chosen dataset; compare kernels and tune C/γ.  
 
-\*\*Outcome:\*\* Confusion matrix/ROC; margin interpretation; report in `docs/`.
+**Outcome:** Confusion matrix/ROC; margin interpretation; report in `docs/`.
 
 
 
