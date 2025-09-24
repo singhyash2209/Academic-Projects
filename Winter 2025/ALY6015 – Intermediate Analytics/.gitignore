@@ -1,0 +1,15 @@
+# R / RStudio
+.Rproj.user/
+*.Rproj
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# HTML notebooks/knitr caches (keep reports, ignore caches)
+*_cache/
+_cache/
