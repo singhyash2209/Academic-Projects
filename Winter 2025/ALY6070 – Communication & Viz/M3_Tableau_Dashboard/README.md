@@ -1,34 +1,34 @@
-\# Assignment 3 – Tableau Dashboard
+# Assignment 3 – Tableau Dashboard
 
 
 
-\## 📌 Objective
+## 📌 Objective
 
-Create a \*\*Tableau dashboard\*\* applying:
+Create a **Tableau dashboard** applying:
 
-\- Filters across workbooks
+- Filters across workbooks
 
-\- Consistent formatting
+- Consistent formatting
 
-\- Calculated KPI fields
-
-
-
-\## 📂 Contents
-
-\- `dashboard/`: Tableau packaged workbook (.twbx).
-
-\- `docs/ALY6070\_Tableau\_Report.pdf`: Supporting report.
+- Calculated KPI fields
 
 
 
-\## 🛠️ Skills Practiced
+## 📂 Contents
 
-\- Tableau filters \& cross-highlighting
+- `dashboard/`: Tableau packaged workbook (.twbx).
 
-\- KPI design with calculated fields
+- `docs/ALY6070_Tableau_Report.pdf`: Supporting report.
 
-\- Visual storytelling
+
+
+## 🛠️ Skills Practiced
+
+- Tableau filters & cross-highlighting
+
+- KPI design with calculated fields
+
+- Visual storytelling
 
 
 
