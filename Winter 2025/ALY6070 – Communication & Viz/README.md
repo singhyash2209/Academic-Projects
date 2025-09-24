@@ -10,13 +10,13 @@ This course focused on **data storytelling, dashboard development, and communica
 
 
 
-- **A2_PowerBI_Dashboard/**
+- **M2_PowerBI_Dashboard/**
 
 &nbsp; - Interactive Power BI dashboard (individual project).
 
 &nbsp; - Report explaining visualization choices and insights.
 
-- **A3_Tableau_Dashboard/**
+- **M3_Tableau_Dashboard/**
 
 &nbsp; - Tableau dashboard (group project).
 
@@ -44,7 +44,7 @@ This course focused on **data storytelling, dashboard development, and communica
 
 ---
 
-ALY6070 – Communication & Visualization/
+## ALY6070 – Communication & Visualization/
 
 ├─ A2_PowerBI_Dashboard/
 
