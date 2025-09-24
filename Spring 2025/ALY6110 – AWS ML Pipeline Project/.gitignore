@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.env
+data/*.csv
+*.pptx
+*.docx
+.DS_Store
