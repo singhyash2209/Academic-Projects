@@ -1,30 +1,30 @@
-\# Signature Final Project – Group Dashboard
+# Signature Final Project – Group Dashboard
 
 
 
-\## 📌 Objective
+## 📌 Objective
 
-As a team, design and present a \*\*comprehensive dashboard\*\* that integrates multiple KPIs, filters, and narratives.
-
-
-
-\## 📂 Contents
-
-\- `dashboard/`: Final group dashboard.
-
-\- `docs/Group\_Report.pdf`: Detailed analysis and dashboard documentation.
-
-\- `docs/Group\_Presentation.pdf`: Final presentation deck.
+As a team, design and present a **comprehensive dashboard** that integrates multiple KPIs, filters, and narratives.
 
 
 
-\## 🛠️ Skills Practiced
+## 📂 Contents
 
-\- Team collaboration in visualization design
+- `dashboard/`: Final group dashboard.
 
-\- Storytelling through data
+- `docs/Group_Report.pdf`: Detailed analysis and dashboard documentation.
 
-\- Effective presentation of insights
+- `docs/Group_Presentation.pdf`: Final presentation deck.
+
+
+
+## 🛠️ Skills Practiced
+
+- Team collaboration in visualization design
+
+- Storytelling through data
+
+- Effective presentation of insights
 
 
 
