@@ -1,30 +1,30 @@
-\# M4 – Regularization (Ridge \& LASSO)
+# M4 – Regularization (Ridge & LASSO)
 
 
 
-\*\*Dataset:\*\* ISLR `College` (same preprocessing as M3)
+**Dataset:** ISLR `College` (same preprocessing as M3)
 
 
 
-\## Contents
+## Contents
 
-\- `data/college\_data.xlsx`
+- `data/college_data.xlsx`
 
-\- `docs/M4\_Assignment.html`
+- `docs/M4_Assignment.html`
 
-\- `src/R\_Script4.R`
+- `src/R_Script4.R`
 
-\- `visuals/` figures
+- `visuals/` figures
 
 
 
-\## Highlights
+## Highlights
 
-\- Standardization; CV for λ
+- Standardization; CV for λ
 
-\- Ridge vs LASSO: coefficient paths \& test error
+- Ridge vs LASSO: coefficient paths & test error
 
-\- Feature selection via LASSO
+- Feature selection via LASSO
 
 
 
