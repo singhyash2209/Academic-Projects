@@ -1,30 +1,30 @@
-\# M3 – Logistic Regression
+# M3 – Logistic Regression
 
 
 
-\*\*Dataset:\*\* ISLR `College` (https://rdrr.io/cran/ISLR/man/College.html)
+**Dataset:** ISLR `College` (https://rdrr.io/cran/ISLR/man/College.html)
 
 
 
-\## Contents
+## Contents
 
-\- `data/college\_data.xlsx`
+- `data/college_data.xlsx`
 
-\- `docs/M3\_Assignment.html`
+- `docs/M3_Assignment.html`
 
-\- `src/R\_Script3.R`
+- `src/R_Script3.R`
 
-\- `visuals/` figures
+- `visuals/` figures
 
 
 
-\## Highlights
+## Highlights
 
-\- Binary target setup (e.g., Private vs Public)
+- Binary target setup (e.g., Private vs Public)
 
-\- Train/test split; confusion matrix; ROC/AUC
+- Train/test split; confusion matrix; ROC/AUC
 
-\- Coefficient/odds interpretation
+- Coefficient/odds interpretation
 
 
 
