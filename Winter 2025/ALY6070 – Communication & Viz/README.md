@@ -1,28 +1,28 @@
-\# ALY6070 – Communication \& Visualization
+# ALY6070 – Communication & Visualization
 
 
 
-This course focused on \*\*data storytelling, dashboard development, and communication of insights\*\* using Power BI and Tableau. Projects demonstrate how to translate complex datasets into clear, actionable visuals for stakeholders.
+This course focused on **data storytelling, dashboard development, and communication of insights** using Power BI and Tableau. Projects demonstrate how to translate complex datasets into clear, actionable visuals for stakeholders.
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
-\- \*\*A2\_PowerBI\_Dashboard/\*\*
+- **A2_PowerBI_Dashboard/**
 
 &nbsp; - Interactive Power BI dashboard (individual project).
 
 &nbsp; - Report explaining visualization choices and insights.
 
-\- \*\*A3\_Tableau\_Dashboard/\*\*
+- **A3_Tableau_Dashboard/**
 
 &nbsp; - Tableau dashboard (group project).
 
 &nbsp; - Written report documenting filters, calculated fields, and formatting.
 
-\- \*\*Signature\_Final\_Project/\*\*
+- **Signature_Final_Project/**
 
 &nbsp; - Group dashboard integrating storytelling, KPIs, and presentation.
 
@@ -30,43 +30,43 @@ This course focused on \*\*data storytelling, dashboard development, and communi
 
 
 
-\## Tools \& Skills
+## Tools & Skills
 
-\- Power BI (DAX, slicers, KPIs)
+- Power BI (DAX, slicers, KPIs)
 
-\- Tableau (filters, calculated fields, formatting)
+- Tableau (filters, calculated fields, formatting)
 
-\- Data storytelling and annotation
+- Data storytelling and annotation
 
-\- Communication of analytical insights
+- Communication of analytical insights
 
 
 
 ---
 
-ALY6070 – Communication \& Visualization/
+ALY6070 – Communication & Visualization/
 
-├─ A2\_PowerBI\_Dashboard/
-
-│  ├─ dashboard/
-
-│  ├─ docs/
-
-│  │  └─ Report\_depression.pdf
-
-│  └─ README.md
-
-├─ A3\_Tableau\_Dashboard/
+├─ A2_PowerBI_Dashboard/
 
 │  ├─ dashboard/
 
 │  ├─ docs/
 
-│  │  └─ ALY6070\_Tableau\_Report.pdf
+│  │  └─ Report_depression.pdf
 
 │  └─ README.md
 
-├─ Signature\_Final\_Project/
+├─ A3_Tableau_Dashboard/
+
+│  ├─ dashboard/
+
+│  ├─ docs/
+
+│  │  └─ ALY6070_Tableau_Report.pdf
+
+│  └─ README.md
+
+├─ Signature_Final_Project/
 
 │  ├─ dashboard/
 
@@ -74,9 +74,9 @@ ALY6070 – Communication \& Visualization/
 
 │  ├─ docs/
 
-│  │  ├─ Group\_Report.pdf
+│  │  ├─ Group_Report.pdf
 
-│  │  └─ Group\_Presentation.pdf
+│  │  └─ Group_Presentation.pdf
 
 │  └─ README.md
 
