@@ -1,4 +1,4 @@
-\# ALY6040 – Data Mining (Spring 2025)
+# ALY6040 – Data Mining (Spring 2025)
 
 
 
@@ -12,7 +12,7 @@ Each module folder contains `data/`, `src/`, `docs/`, and `visuals/`.
 
 
 
-\## Course Blueprint
+## Course Blueprint
 
 
 
@@ -20,7 +20,7 @@ ALY6040 – Data Mining/
 
 │
 
-├── M2\_Decision\_Tree\_LogisticRegression/
+├── M2_Decision_Tree_LogisticRegression/
 
 │ ├── data/ # mushroom dataset (xlsx/txt)
 
@@ -32,7 +32,7 @@ ALY6040 – Data Mining/
 
 │
 
-├── M4\_SVM\_Classifier/
+├── M4_SVM_Classifier/
 
 │ ├── data/ # chosen dataset
 
@@ -44,7 +44,7 @@ ALY6040 – Data Mining/
 
 │
 
-├── M5\_Text\_Mining\_Wordcloud/
+├── M5_Text_Mining_Wordcloud/
 
 │ ├── data/ # text sources
 
@@ -72,21 +72,21 @@ ALY6040 – Data Mining/
 
 
 
-\## How to Reproduce (R)
+## How to Reproduce (R)
 
 
 
-1\. Set working directory to the specific module.
+1. Set working directory to the specific module.
 
-2\. Install required R packages:
+2. Install required R packages:
 
 &nbsp;  - `tidyverse`, `caret`, `rpart`, `rpart.plot`, `randomForest`
 
 &nbsp;  - `e1071`, `tm`, `SnowballC`, `wordcloud`, `pROC`
 
-3\. Run scripts in `src/`.
+3. Run scripts in `src/`.
 
-4\. Outputs (plots, tables) are exported to `visuals/` and referenced in `docs/`.
+4. Outputs (plots, tables) are exported to `visuals/` and referenced in `docs/`.
 
 
 
@@ -94,17 +94,17 @@ ALY6040 – Data Mining/
 
 
 
-\## Deliverables
+## Deliverables
 
 
 
-\- \*\*Module 2:\*\* Mushrooms classification (Decision Trees, Logistic Regression, Ensembles)
+- **Module 2:** Mushrooms classification (Decision Trees, Logistic Regression, Ensembles)
 
-\- \*\*Module 4:\*\* Support Vector Machines (linear, RBF, tuning)
+- **Module 4:** Support Vector Machines (linear, RBF, tuning)
 
-\- \*\*Module 5:\*\* Text Mining \& Wordclouds
+- **Module 5:** Text Mining & Wordclouds
 
-\- \*\*Final Project:\*\* Comprehensive 10–15 page report + presentation
+- **Final Project:** Comprehensive 10–15 page report + presentation
 
 
 
