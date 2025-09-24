@@ -1,26 +1,26 @@
-\# ITC6000 — M2: Business Analysis \& ERD
+# ITC6000 — M2: Business Analysis & ERD
 
-\*\*Term:\*\* Fall 2024  
+**Term:** Fall 2024  
 
-\*\*Tech:\*\* ERD design (draw.io/Visio), SQL concepts
+**Tech:** ERD design (draw.io/Visio), SQL concepts
 
 
 
-\## Objective
+## Objective
 
 Translate business rules into a normalized ERD as the basis for schema creation.
 
 
 
-\## Methods
+## Methods
 
-\- Entities/attributes/keys; relationship cardinalities; normalization notes
+- Entities/attributes/keys; relationship cardinalities; normalization notes
 
 
 
-\## Key Results
+## Key Results
 
-\- Final ERD supporting analytics use cases; decisions documented in `docs/`
+- Final ERD supporting analytics use cases; decisions documented in `docs/`
 
 
 
