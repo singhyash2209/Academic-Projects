@@ -1,18 +1,18 @@
-\# ITC6000 — M4: Team Presentation
+# ITC6000 — M4: Team Presentation
 
-\*\*Term:\*\* Fall 2024
+**Term:** Fall 2024
 
 
 
-\## Objective
+## Objective
 
 Explain database design choices and querying strategy to a non-technical audience.
 
 
 
-\## Artifact
+## Artifact
 
-\- Slide deck in `docs/` with schema overview, sample queries, and decisions.
+- Slide deck in `docs/` with schema overview, sample queries, and decisions.
 
 
 
