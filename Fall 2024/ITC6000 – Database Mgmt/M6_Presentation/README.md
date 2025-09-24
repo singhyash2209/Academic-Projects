@@ -1,6 +1,6 @@
-\# ITC6000 — M6: Final Presentation
+# ITC6000 — M6: Final Presentation
 
-\*\*Term:\*\* Fall 2024
+**Term:** Fall 2024
 
 
 
