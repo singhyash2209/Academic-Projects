@@ -1,30 +1,12 @@
-# M3 – Logistic Regression
+# ALY6015 — M3: Logistic Regression
+**Term:** Winter 2025  
+**Tech:** R (caret, pROC)
 
+## Objective
+Binary classification with interpretable coefficients and calibrated thresholds.
 
+## Methods
+- Train/test split; confusion matrix; ROC/AUC; odds interpretation
 
-**Dataset:** ISLR `College` (https://rdrr.io/cran/ISLR/man/College.html)
-
-
-
-## Contents
-
-- `data/college_data.xlsx`
-
-- `docs/M3_Assignment.html`
-
-- `src/R_Script3.R`
-
-- `visuals/` figures
-
-
-
-## Highlights
-
-- Binary target setup (e.g., Private vs Public)
-
-- Train/test split; confusion matrix; ROC/AUC
-
-- Coefficient/odds interpretation
-
-
-
+## Key Results
+- Operating threshold recommendation; key drivers identified with effect directions

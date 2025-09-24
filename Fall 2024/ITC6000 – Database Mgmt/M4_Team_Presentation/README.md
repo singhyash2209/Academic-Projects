@@ -1,30 +1,20 @@
-# M4 – Team Presentation
+\# ITC6000 — M4: Team Presentation
+
+\*\*Term:\*\* Fall 2024
 
 
 
-### Objective
+\## Objective
 
-Deliver a presentation summarizing the project progress and design so far.  
-
-The focus is on communicating the business case, ERD, and implementation plans.
+Explain database design choices and querying strategy to a non-technical audience.
 
 
 
-### Deliverables
+\## Artifact
 
-- **Week4_Presentation.pdf** – Presentation slide deck.  
+\- Slide deck in `docs/` with schema overview, sample queries, and decisions.
 
 
-
-### Key Highlights
-
-- Business challenge overview.  
-
-- ERD explanation.  
-
-- Initial database implementation strategy.  
-
-- Team collaboration effort demonstrated.
 
 
 

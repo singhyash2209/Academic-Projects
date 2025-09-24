@@ -1,26 +1,14 @@
-\# Module 4 — Support Vector Machines
+\# ALY6040 — Module 4: SVM Classifier
+
+\*\*Term:\*\* Spring 2025  
+
+\*\*Tech:\*\* R (e1071, caret, pROC)
 
 
 
-\*\*Goal:\*\* Apply SVMs to a chosen dataset; compare kernels and tune parameters.
+\*\*Objective:\*\* Train SVM on a chosen dataset; compare kernels and tune C/γ.  
 
-
-
-\## Methods
-
-\- Linear \& RBF kernels
-
-\- Grid search for C and gamma
-
-\- ROC and confusion matrix evaluation
-
-
-
-\## Deliverables
-
-\- \*\*docs/\*\*: 5–7 page APA report
-
-\- \*\*visuals/\*\*: ROC curves, decision boundary plots
+\*\*Outcome:\*\* Confusion matrix/ROC; margin interpretation; report in `docs/`.
 
 
 

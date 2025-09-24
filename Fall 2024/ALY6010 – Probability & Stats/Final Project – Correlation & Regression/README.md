@@ -1,74 +1,46 @@
-\# ALY6010 – Final Project: Correlation \& Regression
+\# ALY6010 — Final Project: Correlation \& Regression
+
+\*\*Term:\*\* Fall 2024  
+
+\*\*Tech:\*\* R (tidyverse, broom), infer
 
 
 
-\## 📌 Overview  
+\## Objective
 
-This project explores relationships in the \*\*Toronto Casino Survey dataset\*\*, focusing on correlation and regression analysis. The work builds on earlier exploratory data analysis (EDA) and hypothesis testing assignments.  
-
-
-
-The goals are:  
-
-\- Identify relationships between variables using scatterplots and correlation.  
-
-\- Perform regression analysis to test hypotheses.  
-
-\- Interpret results to provide actionable insights.  
+EDA → hypothesis tests → linear regression to answer a defined business question.
 
 
 
-\## 📂 Project Structure  
+\## Methods
 
-Final Project – Correlation \& Regression
+\- One/two-sample tests; correlation analysis; assumptions checks (linearity, normality)
 
-│── data/
-
-│ └── toronto-casino-survey-results.xlsx # Survey dataset
-
-│── docs/
-
-│ ├── Final Project-EDA.pdf # Initial EDA report
-
-│ ├── Final Project-Exploratory Data Analysis.pdf # Detailed analysis
-
-│ └── toronto-casino-survey-feedback-form.pdf # Reference survey form
-
-│── src/
-
-│ └── Final\_Project-2.R # R script with analysis
-
-└── README.md # Project overview
+\- Multiple linear regression; coefficient interpretation; diagnostics
 
 
 
-\## Methods Used  
+\## Key Results
 
-\- Exploratory Data Analysis (EDA)  
-
-\- Correlation analysis  
-
-\- Simple \& multiple linear regression  
-
-\- Hypothesis testing (null vs. alternative)  
+\- Statistically supported effect sizes; validated model with clear limitations \& next steps
 
 
 
-\## Reports  
+\## Repo Structure
 
-\- \*\*EDA Report:\*\* Summarizes dataset features and patterns.  
+Final Project – Correlation \& Regression/  
 
-\- \*\*Exploratory Analysis Report:\*\* Documents regression \& correlation findings.  
+├─ \*\*src/\*\* scripts  
 
-\- \*\*Feedback Form:\*\* Original survey reference (Toronto).  
+├─ \*\*docs/\*\* final report  
+
+└─ \*\*data/\*\* dataset(s)
 
 
 
-\## Dataset Source  
+\## How to Run
 
-Dataset and survey documentation are publicly available at:  
-
-🔗 \[Toronto Casino Survey Results (Open Data Toronto)](https://open.toronto.ca/dataset/casino-survey-results/)  
+Install `tidyverse`, `infer`, `broom`; run scripts in `src/` to regenerate tables/figures.
 
 
 

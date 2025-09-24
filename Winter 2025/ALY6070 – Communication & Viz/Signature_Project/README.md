@@ -1,30 +1,4 @@
-# Signature Final Project – Group Dashboard
+# ALY6070 — Signature Project (Communication & Viz)
+**Term:** Winter 2025
 
-
-
-## 📌 Objective
-
-As a team, design and present a **comprehensive dashboard** that integrates multiple KPIs, filters, and narratives.
-
-
-
-## 📂 Contents
-
-- `dashboard/`: Final group dashboard.
-
-- `docs/Group_Report.pdf`: Detailed analysis and dashboard documentation.
-
-- `docs/Group_Presentation.pdf`: Final presentation deck.
-
-
-
-## 🛠️ Skills Practiced
-
-- Team collaboration in visualization design
-
-- Storytelling through data
-
-- Effective presentation of insights
-
-
-
+Cohesive dashboard narrative with recommendations and design rationale; deliverables in `docs/`.

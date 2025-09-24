@@ -1,34 +1,26 @@
-# M2 – Business Analysis & ERD
+\# ITC6000 — M2: Business Analysis \& ERD
+
+\*\*Term:\*\* Fall 2024  
+
+\*\*Tech:\*\* ERD design (draw.io/Visio), SQL concepts
 
 
 
-### Objective
+\## Objective
 
-Define the problem space and translate it into database-ready logic.
-
-This module establishes the foundation of the project by analyzing the business needs and designing the first version of the ERD.
+Translate business rules into a normalized ERD as the basis for schema creation.
 
 
 
-### Deliverables
+\## Methods
 
-- **Community service and Emergency Response App.pdf**
-
-  - Introduction: project overview, motivation, and personal connection.
-
-  - Business analysis: definition of user personas (end-users).
-
-  - Business rules: logic the app enforces.
-
-  - ER Diagram (ERD): tables, relationships, and structure.
+\- Entities/attributes/keys; relationship cardinalities; normalization notes
 
 
 
-### Key Highlights
+\## Key Results
 
-- 2–3 detailed user personas describing *who* uses the system and *how*.
+\- Final ERD supporting analytics use cases; decisions documented in `docs/`
 
-- At least 5 business rules documented in clear bullet points.
 
-- ERD diagram with at least 4 related tables (PKs & FKs defined).
 

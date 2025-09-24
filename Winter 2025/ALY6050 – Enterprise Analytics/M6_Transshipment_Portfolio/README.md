@@ -1,40 +1,9 @@
-# Module 6 – Transshipment and Portfolio Optimization
+# ALY6050 — M6: Transshipment & Portfolio
+**Term:** Winter 2025  
+**Tech:** Network flow; basic portfolio allocation
 
-
-
-## Overview
-
-This final project combines two optimization problems:
-
-1. A transshipment model for optimizing hazardous waste transportation across a network.
-
-2. A quadratic programming model for portfolio optimization based on risk-return trade-offs.
-
-
-
-## Contents
-
-- `src/` – R scripts implementing transshipment and portfolio optimization
-
-- `docs/` – Report summarizing problem setup, models, and results
-
-
+## Objective
+Optimize logistics flows and allocate capital under risk/return trade-offs.
 
 ## Methods
-
-- Network flow optimization using transshipment modeling
-
-- Cost minimization subject to route and capacity constraints
-
-- Portfolio optimization using mean-variance framework
-
-- Quadratic programming to balance risk and expected return
-
-
-
-## Key Insight
-
-Operations research methods such as network flow and portfolio optimization provide practical solutions in logistics and finance.
-
-
-
+- Transportation network model; mean-variance-style allocation

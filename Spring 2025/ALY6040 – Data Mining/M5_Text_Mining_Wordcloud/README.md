@@ -1,26 +1,14 @@
-\# Module 5 — Text Mining \& Wordcloud
+\# ALY6040 — Module 5: Text Mining \& Wordcloud
+
+\*\*Term:\*\* Spring 2025  
+
+\*\*Tech:\*\* R (tm, SnowballC, wordcloud)
 
 
 
-\*\*Goal:\*\* Process text data, build a DTM, and create a wordcloud to interpret meaning.
+\*\*Objective:\*\* Clean text, build DTM, generate wordcloud, interpret meaning.  
 
-
-
-\## Methods
-
-\- Cleaning, stopword removal, stemming
-
-\- Wordcloud visualization
-
-\- Optional: sentiment / top terms analysis
-
-
-
-\## Deliverables
-
-\- \*\*docs/\*\*: 5–7 page APA report
-
-\- \*\*visuals/\*\*: wordcloud images, term frequency plots
+\*\*Outcome:\*\* Wordcloud PNGs + short analysis; report in `docs/`.
 
 
 

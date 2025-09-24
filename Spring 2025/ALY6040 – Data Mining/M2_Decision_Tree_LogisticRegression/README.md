@@ -1,26 +1,16 @@
-\# Module 2 — Decision Trees \& Logistic Regression
+\# ALY6040 — Module 2: Decision Trees \& Logistic (Mushrooms)
+
+\*\*Term:\*\* Spring 2025  
+
+\*\*Tech:\*\* R (rpart, caret, ggplot2)
 
 
 
-\*\*Goal:\*\* Classify edible vs. poisonous mushrooms, analyze model performance, and provide safety recommendations.
+\*\*Objective:\*\* Classify edible vs. poisonous; document code walkthrough and insights.  
 
+\*\*Methods:\*\* DT with pruning, Logistic Regression; optional RF ensemble; CV \& confusion matrix.  
 
-
-\## Methods
-
-\- Decision Tree (pruning \& overfitting check)
-
-\- Logistic Regression
-
-\- Optional: Random Forest ensemble
-
-
-
-\## Deliverables
-
-\- \*\*docs/\*\*: 5–7 page APA report
-
-\- \*\*visuals/\*\*: tree plots, variable importance, ROC/AUC
+\*\*Outcome:\*\* Safety-rule recommendations; feature importance; ROC/AUC in report (`docs/`).
 
 
 

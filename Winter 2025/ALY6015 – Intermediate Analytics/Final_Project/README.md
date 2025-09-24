@@ -1,26 +1,4 @@
-\# Final Project – Integrated Modeling
+# ALY6015 — Final Project (Integrated Regression/GLM/Logit)
+**Term:** Winter 2025
 
-
-
-\*\*Dataset:\*\* `drugs\_side\_effects\_drugs\_com.xlsx`
-
-
-
-\## Contents
-
-\- `data/drugs\_side\_effects\_drugs\_com.xlsx`
-
-\- `docs/Final\_Project\_Report.html`
-
-\- `src/` (if present)
-
-\- `visuals/` figures
-
-
-
-\## Outline
-
-EDA → feature engineering → selected GLM/logistic models → diagnostics → interpretation and recommendations.
-
-
-
+End-to-end analysis from EDA to validated model(s); scripts in `src/`, report in `docs/`.

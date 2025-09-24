@@ -1,34 +1,5 @@
-# Assignment 3 – Tableau Dashboard
+# ALY6070 — M3: Tableau Dashboard
+**Term:** Winter 2025  
+**Tech:** Tableau
 
-
-
-## 📌 Objective
-
-Create a **Tableau dashboard** applying:
-
-- Filters across workbooks
-
-- Consistent formatting
-
-- Calculated KPI fields
-
-
-
-## 📂 Contents
-
-- `dashboard/`: Tableau packaged workbook (.twbx).
-
-- `docs/ALY6070_Tableau_Report.pdf`: Supporting report.
-
-
-
-## 🛠️ Skills Practiced
-
-- Tableau filters & cross-highlighting
-
-- KPI design with calculated fields
-
-- Visual storytelling
-
-
-
+Multi-sheet dashboard with cross-filters and calculated fields. Artifacts in `docs/`.
